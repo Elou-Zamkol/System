@@ -1,0 +1,14 @@
+/home/raul/RiderProjects/DZlin/SmtpClientDemo/bin/Debug/net9.0/SmtpClientDemo
+/home/raul/RiderProjects/DZlin/SmtpClientDemo/bin/Debug/net9.0/SmtpClientDemo.deps.json
+/home/raul/RiderProjects/DZlin/SmtpClientDemo/bin/Debug/net9.0/SmtpClientDemo.runtimeconfig.json
+/home/raul/RiderProjects/DZlin/SmtpClientDemo/bin/Debug/net9.0/SmtpClientDemo.dll
+/home/raul/RiderProjects/DZlin/SmtpClientDemo/bin/Debug/net9.0/SmtpClientDemo.pdb
+/home/raul/RiderProjects/DZlin/SmtpClientDemo/obj/Debug/net9.0/SmtpClientDemo.GeneratedMSBuildEditorConfig.editorconfig
+/home/raul/RiderProjects/DZlin/SmtpClientDemo/obj/Debug/net9.0/SmtpClientDemo.AssemblyInfoInputs.cache
+/home/raul/RiderProjects/DZlin/SmtpClientDemo/obj/Debug/net9.0/SmtpClientDemo.AssemblyInfo.cs
+/home/raul/RiderProjects/DZlin/SmtpClientDemo/obj/Debug/net9.0/SmtpClientDemo.csproj.CoreCompileInputs.cache
+/home/raul/RiderProjects/DZlin/SmtpClientDemo/obj/Debug/net9.0/SmtpClientDemo.dll
+/home/raul/RiderProjects/DZlin/SmtpClientDemo/obj/Debug/net9.0/refint/SmtpClientDemo.dll
+/home/raul/RiderProjects/DZlin/SmtpClientDemo/obj/Debug/net9.0/SmtpClientDemo.pdb
+/home/raul/RiderProjects/DZlin/SmtpClientDemo/obj/Debug/net9.0/SmtpClientDemo.genruntimeconfig.cache
+/home/raul/RiderProjects/DZlin/SmtpClientDemo/obj/Debug/net9.0/ref/SmtpClientDemo.dll
